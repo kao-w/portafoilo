@@ -2284,7 +2284,7 @@ body.overflow-hidden {
     overflow-wrap: break-word;
 }
 .anim-typewriter{
-  animation: typewriter 2s steps(20) 1s 1 normal both,
+  animation: typewriter 2s steps(25) 1s 1 normal both,
              blinkTextCursor 500ms steps(20) 2s 3 normal both;
 }
 @keyframes typewriter{
