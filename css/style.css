@@ -534,14 +534,15 @@ form textarea:-ms-input-placeholder {
 @media only screen and (min-width: 2000px) {
     .main-menu ul {
         font-size: 1.75rem;
-        line-height: 1.75rem
+        line-height: 1.75rem;
     }
 }
 
 @media only screen and (max-width: 767px) {
     .main-menu ul {
         font-size: 1.75rem;
-        line-height: 1.75rem
+        line-height: 1.75rem;
+        margin-left: 5%;
     }
 }
 
@@ -562,15 +563,16 @@ form textarea:-ms-input-placeholder {
         font-weight: normal;
         font-style: normal;
         font-size: 1.16667rem;
-        line-height: 1.25rem;
+        line-height: 1.75rem;
         text-transform: uppercase;
-        letter-spacing: 1px
+        letter-spacing: 1px;
+        margin-left: 5%;
     }
 }
 
 @media only screen and (min-width: 2000px) {
     .main-menu {
-        margin-top: 4rem
+        margin-top: 4rem;
     }
 }
 
@@ -2267,6 +2269,8 @@ body.overflow-hidden {
     font-family: 'Asul', sans-serif ;
     color: white !important;
 }
+
+.rosa:hover { color: #e58c8c; }
 
 .line-1{
     font-family: 'Asul', sans-serif ;
