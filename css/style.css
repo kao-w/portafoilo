@@ -2289,7 +2289,7 @@ body.overflow-hidden {
 }
 @keyframes typewriter{
   from{width: 0;}
-  to{width: 6.7em;}
+  to{width: 7em;}
 }
 @keyframes blinkTextCursor{
   from{border-right-color: rgba(255,255,255,.75);}
@@ -2303,7 +2303,7 @@ body.overflow-hidden {
 }
 @keyframes typewriter2{
   from{width: 0;}
-  to{width: 20.5em;}
+  to{width: 21.5em;}
 }
 @keyframes blinkTextCursor2{
   from{border-right-color: transparent;}
